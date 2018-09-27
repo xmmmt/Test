@@ -38,3 +38,12 @@ a = chr(A)
 print("The character is {}".format(a))
 '''
 
+#EP：6
+name = raw_input("Enter empolyee's name: ")
+hour = eval(raw_input("Enter number of days elapsed since today： "))
+rate = eval(raw_input("Enter hourly pay rate: "))
+federal = eval(raw_input("Enter federal tax withholding rate: "))
+state = eval(raw_input("Enter state tax withholding rate: "))
+print("Employee name: {} ".format(name))
+print("Hours worked: {} ".format(hour))
+prinx
